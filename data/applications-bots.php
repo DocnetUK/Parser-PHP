@@ -151,6 +151,7 @@ Applications::$BOTS = [
     [ 'name' => 'Google FeedBurner',            'id'    => 'feed',      'regexp' => '/FeedBurner\/([0-9.]*)/u' ],
     [ 'name' => 'Google Feedfetcher',           'id'    => 'google',      'regexp' => '/Feedfetcher-Google/iu' ],
     [ 'name' => 'Google Font Analysis',         'id'    => 'google',      'regexp' => '/Google-FontAnalysis\/([0-9.]*)/u' ],
+    [ 'name' => 'Google Inspection Tool',       'id'    => 'google',      'regexp' => '/Google-InspectionTool\/([0-9.]*)/u' ],
     [ 'name' => 'Google Sitemaps',              'id'    => 'google',      'regexp' => '/Google-Sitemaps\/([0-9.]*)/u' ],
     [ 'name' => 'Google Site Verification',     'id'    => 'google',      'regexp' => '/Google-Site-Verification\/([0-9.]*)/u' ],
     [ 'name' => 'Google Rich Snippets',         'id'    => 'google',      'regexp' => '/Googlebot-richsnippets/u' ],
